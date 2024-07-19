@@ -1,9 +1,157 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "Trees": [
+    {
+      "name": "Japanese Maple",
+      "scientific_name": "Acer palmatum",
+      "description": "Japanese Maple is a deciduous tree known for its stunning foliage and graceful form. It typically grows 10-25 feet tall with a spread of 10-20 feet. The leaves vary in color from deep red to purple or green depending on the cultivar. It prefers well-drained soil and partial shade, making it ideal for enhancing gardens and landscapes with its vibrant colors throughout the seasons.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/japanese-maple-tree-acer-palmatum-dreamstime_12239.jpg",
+      "distance": 3,
+      "dealer": "Jepod",
+      "pieces": 34,
+      "id": "1",
+      "cost": 155
+    },
+    {
+      "name": "Crepe Myrtle",
+      "scientific_name": "Lagerstroemia indica",
+      "description": "Crepe Myrtle is a small to medium-sized deciduous tree renowned for its showy summer flowers and attractive bark. It typically grows 10-30 feet tall with a spread of 6-15 feet. Flower colors range from white to shades of pink, red, or purple, depending on the cultivar. It thrives in full sun and well-drained soil, making it a popular choice for gardens and landscapes.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/lagerstroemia-indica-crape-myrtle-flowering-tree-alamy-stock-photo_12450.jpg",
+      "distance": 3,
+      "dealer": "Jepod",
+      "pieces": 23,
+      "id": "2",
+      "cost": 85
+    },
+    {
+      "name": "Dogwood",
+      "scientific_name": "Cornus florida",
+      "description": "Dogwood is a small to medium-sized flowering tree native to North America, prized for its elegant white or pink spring flowers and attractive fall foliage. It typically grows 15-30 feet tall with a spread of 15-25 feet. It prefers partial shade and well-drained soil, making it suitable for gardens and woodland edges.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/white-dogwood-dogwood-blooms-garden-design_11607.jpg",
+      "distance": 4,
+      "dealer": "Podoiko",
+      "pieces": 23,
+      "id": "3",
+      "cost": 90
+    },
+    {
+      "name": "Eastern Redbud",
+      "scientific_name": "Cercis canadensis",
+      "description": "Eastern Redbud is a small deciduous tree known for its striking pink or purple flowers that bloom on bare branches in early spring. It typically grows 20-30 feet tall with a spread of 15-25 feet. It thrives in full sun to partial shade and well-drained soil, tolerating drought once established. It adds color to landscapes and attracts bees and butterflies.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/650x490Exact/site_3/eastern-redbud-redbud-in-bloom-garden-design_11605.jpg",
+      "distance": 4,
+      "dealer": "Podoiko",
+      "pieces": 12,
+      "id": "4",
+      "cost": 99
+    },
+    {
+      "name": "Magnolia",
+      "scientific_name": "Magnolia spp.",
+      "description": "Magnolia is a large genus of flowering trees known for their large, fragrant flowers and glossy foliage. They range from 20-30 feet tall with a spread of 15-25 feet, depending on the species. Magnolias prefer full sun to partial shade and well-drained, acidic soil. They are popular ornamental trees in gardens and parks, providing beauty and fragrance.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/magnola-tree-blooming-tree-shutterstock-com_12301.jpg",
+      "distance": 3,
+      "dealer": "Podoiko,Jepod",
+      "pieces": 42,
+      "id": "5",
+      "cost": 77
+    },
+    {
+      "name": "Cherry Tree",
+      "scientific_name": "Prunus spp.",
+      "description": "Cherry trees are deciduous trees known for their spring blossoms and edible fruits. They vary in height from 15-30 feet with a spread of 10-20 feet. Flower colors range from white to pink depending on the cultivar. Cherry trees prefer full sun and well-drained soil, making them popular in orchards and home gardens.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/weeping-cherry-prunussubhirtella-garden-design_11423.jpg",
+      "distance": 3,
+      "dealer": "Pold",
+      "pieces": 30,
+      "id": "6",
+      "cost": 90
+    },
+    {
+      "name": "Holly",
+      "scientific_name": "Ilex spp.",
+      "description": "Hollies are evergreen trees or shrubs known for their glossy, spiky leaves and bright berries. They range from 6-20 feet tall with a spread of 4-12 feet. Hollies thrive in full sun to partial shade and well-drained soil, attracting birds with their berries. They are used for hedges, privacy screens, and ornamental purposes in gardens.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/sky-pointer-holly-japanese-holly-sky-box-proven-winners_14728.jpg",
+      "distance": 3,
+      "dealer": "Pold",
+      "pieces": 9,
+      "id": "7",
+      "cost": 83
+    },
+    {
+      "name": "Japanese Flowering Cherry",
+      "scientific_name": "Prunus serrulata",
+      "description": "Japanese Flowering Cherry is a small to medium-sized tree known for its spectacular spring blossoms. It typically grows 15-25 feet tall with a spread of 10-15 feet. Flower colors range from white to pink, depending on the cultivar. It prefers full sun and well-drained soil, adding beauty to gardens and landscapes.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/prunus-incisa-fuji-cherry-kojo-no-mai-alamy-stock-photo_12576.jpg",
+      "distance": 10,
+      "dealer": "Piled",
+      "pieces": 12,
+      "id": "8",
+      "cost": 89
+    },
+    {
+      "name": "American Red Maple",
+      "scientific_name": "Acer rubrum",
+      "description": "American Red Maple is a large deciduous tree prized for its brilliant red foliage in autumn. It typically grows 40-70 feet tall with a spread of 25-45 feet. It thrives in full sun to partial shade and well-drained soil, providing shade and attracting wildlife. It is widely used in parks, residential areas, and urban landscapes.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/japanese-maple-container-terra-cotta-garden-design_11943.jpg",
+      "distance": 3,
+      "dealer": "priod",
+      "pieces": 19,
+      "id": "9",
+      "cost": 112
+    },
+    {
+      "name": "Birch",
+      "scientific_name": "Betula spp.",
+      "description": "Birches are deciduous trees known for their graceful form and distinctive bark. They typically grow 40-70 feet tall with a spread of 20-40 feet. Birches prefer full sun to partial shade and moist, well-drained soil. They are valued for their ornamental appeal and are often used in parks and large landscapes.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/fox-valley-little-king-dwarf-river-birch-millette-photomedia_12432.jpg",
+      "distance": 8,
+      "dealer": "crod",
+      "pieces": 22,
+      "id": "10",
+      "cost": 101
+    },
+    {
+      "name": "Willow",
+      "scientific_name": "Salix spp.",
+      "description": "Willows are deciduous trees known for their graceful, weeping branches and fast growth. They typically grow 30-50 feet tall with a spread of 20-35 feet. Willows prefer moist to wet soil and full sun to partial shade. They provide shade and are suitable for adding a dramatic element to landscapes.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/little-henry-sweetspire-itea-virginica-proven-winners_16075.jpg",
+      "distance": 9,
+      "dealer": "Plapol",
+      "pieces": 18,
+      "id": "11",
+      "cost": 88
+    },
+    {
+      "name": "Linden",
+      "scientific_name": "Tilia spp.",
+      "description": "Lindens are large deciduous trees known for their heart-shaped leaves and fragrant flowers. They typically grow 50-70 feet tall with a spread of 35-50 feet. Lindens prefer full sun to partial shade and well-drained soil. They are valued for their shade, attractive foliage, and ability to attract pollinators like bees.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/675x529Max/site_3/helleborus-x-hybridus-garden-design_10801.jpg",
+      "distance": 6,
+      "dealer": "Gerald",
+      "pieces": 13,
+      "id": "12",
+      "cost": 90
+    },
+    {
+      "name": "Oak",
+      "scientific_name": "Quercus spp.",
+      "description": "Oak trees are large deciduous or evergreen trees known for their strength and longevity. They typically grow 50-80 feet tall with a spread of 40-60 feet. Oaks prefer full sun and well-drained soil. They support a diverse range of wildlife and are valued for their shade and majestic presence in landscapes.",
+      "picture_url": "https://www.gardendesign.com/pictures/images/650x490Exact/site_3/red-oaks-driveway-alamy-stock-photo_12018.jpg",
+      "distance": 7,
+      "dealer": "Omwoyo",
+      "pieces": 32,
+      "id": "13",
+      "cost": 86
+    },
+    {
+      "id": "6538",
+      "name": "spruce",
+      "scientific_name": "Picea spp",
+      "description": "Spruces are large evergreen trees known for their conical shape and needle-like foliage. They typically grow 30-60 feet tall with a spread of 10-20 feet. Spruces prefer full sun and well-drained soil. They are valued for their year-round greenery and are used as windbreaks or privacy screens in landscapes.\n",
+      "picture_url": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/weeping-spruce-picea-abies-pendula-shutterstock-com_12581.jpg",
+      "dealer": "Johnson",
+      "pieces": "70",
+      "cost": "76"
+    }
+  ]
 }
